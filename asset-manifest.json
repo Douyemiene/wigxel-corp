@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wigxel-corp-ineterview/static/css/main.76896dfc.chunk.css",
-    "main.js": "/wigxel-corp-ineterview/static/js/main.4f194394.chunk.js",
-    "main.js.map": "/wigxel-corp-ineterview/static/js/main.4f194394.chunk.js.map",
-    "runtime-main.js": "/wigxel-corp-ineterview/static/js/runtime-main.f1bb32c9.js",
-    "runtime-main.js.map": "/wigxel-corp-ineterview/static/js/runtime-main.f1bb32c9.js.map",
-    "static/js/2.673d69ba.chunk.js": "/wigxel-corp-ineterview/static/js/2.673d69ba.chunk.js",
-    "static/js/2.673d69ba.chunk.js.map": "/wigxel-corp-ineterview/static/js/2.673d69ba.chunk.js.map",
-    "static/js/3.7eb7f94e.chunk.js": "/wigxel-corp-ineterview/static/js/3.7eb7f94e.chunk.js",
-    "static/js/3.7eb7f94e.chunk.js.map": "/wigxel-corp-ineterview/static/js/3.7eb7f94e.chunk.js.map",
-    "index.html": "/wigxel-corp-ineterview/index.html",
-    "static/css/main.76896dfc.chunk.css.map": "/wigxel-corp-ineterview/static/css/main.76896dfc.chunk.css.map",
-    "static/js/2.673d69ba.chunk.js.LICENSE.txt": "/wigxel-corp-ineterview/static/js/2.673d69ba.chunk.js.LICENSE.txt",
-    "static/media/DupLogo.6c06839c.png": "/wigxel-corp-ineterview/static/media/DupLogo.6c06839c.png"
+    "main.css": "/wigxel-corp/static/css/main.76896dfc.chunk.css",
+    "main.js": "/wigxel-corp/static/js/main.4f194394.chunk.js",
+    "main.js.map": "/wigxel-corp/static/js/main.4f194394.chunk.js.map",
+    "runtime-main.js": "/wigxel-corp/static/js/runtime-main.409cc2d4.js",
+    "runtime-main.js.map": "/wigxel-corp/static/js/runtime-main.409cc2d4.js.map",
+    "static/js/2.673d69ba.chunk.js": "/wigxel-corp/static/js/2.673d69ba.chunk.js",
+    "static/js/2.673d69ba.chunk.js.map": "/wigxel-corp/static/js/2.673d69ba.chunk.js.map",
+    "static/js/3.7eb7f94e.chunk.js": "/wigxel-corp/static/js/3.7eb7f94e.chunk.js",
+    "static/js/3.7eb7f94e.chunk.js.map": "/wigxel-corp/static/js/3.7eb7f94e.chunk.js.map",
+    "index.html": "/wigxel-corp/index.html",
+    "static/css/main.76896dfc.chunk.css.map": "/wigxel-corp/static/css/main.76896dfc.chunk.css.map",
+    "static/js/2.673d69ba.chunk.js.LICENSE.txt": "/wigxel-corp/static/js/2.673d69ba.chunk.js.LICENSE.txt",
+    "static/media/DupLogo.6c06839c.png": "/wigxel-corp/static/media/DupLogo.6c06839c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1bb32c9.js",
+    "static/js/runtime-main.409cc2d4.js",
     "static/js/2.673d69ba.chunk.js",
     "static/css/main.76896dfc.chunk.css",
     "static/js/main.4f194394.chunk.js"
