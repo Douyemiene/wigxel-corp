@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wigxel-corp/static/css/main.cb139656.chunk.css",
-    "main.js": "/wigxel-corp/static/js/main.522a2f3b.chunk.js",
-    "main.js.map": "/wigxel-corp/static/js/main.522a2f3b.chunk.js.map",
+    "main.js": "/wigxel-corp/static/js/main.f9818e49.chunk.js",
+    "main.js.map": "/wigxel-corp/static/js/main.f9818e49.chunk.js.map",
     "runtime-main.js": "/wigxel-corp/static/js/runtime-main.cf076e3c.js",
     "runtime-main.js.map": "/wigxel-corp/static/js/runtime-main.cf076e3c.js.map",
     "static/js/2.fcf31f6b.chunk.js": "/wigxel-corp/static/js/2.fcf31f6b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cf076e3c.js",
     "static/js/2.fcf31f6b.chunk.js",
     "static/css/main.cb139656.chunk.css",
-    "static/js/main.522a2f3b.chunk.js"
+    "static/js/main.f9818e49.chunk.js"
   ]
 }
