@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wigxel-corp/static/css/main.a3fcf983.chunk.css",
-    "main.js": "/wigxel-corp/static/js/main.a32f7a96.chunk.js",
-    "main.js.map": "/wigxel-corp/static/js/main.a32f7a96.chunk.js.map",
+    "main.css": "/wigxel-corp/static/css/main.cb139656.chunk.css",
+    "main.js": "/wigxel-corp/static/js/main.522a2f3b.chunk.js",
+    "main.js.map": "/wigxel-corp/static/js/main.522a2f3b.chunk.js.map",
     "runtime-main.js": "/wigxel-corp/static/js/runtime-main.cf076e3c.js",
     "runtime-main.js.map": "/wigxel-corp/static/js/runtime-main.cf076e3c.js.map",
     "static/js/2.fcf31f6b.chunk.js": "/wigxel-corp/static/js/2.fcf31f6b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.353da9c0.chunk.js": "/wigxel-corp/static/js/3.353da9c0.chunk.js",
     "static/js/3.353da9c0.chunk.js.map": "/wigxel-corp/static/js/3.353da9c0.chunk.js.map",
     "index.html": "/wigxel-corp/index.html",
-    "static/css/main.a3fcf983.chunk.css.map": "/wigxel-corp/static/css/main.a3fcf983.chunk.css.map",
+    "static/css/main.cb139656.chunk.css.map": "/wigxel-corp/static/css/main.cb139656.chunk.css.map",
     "static/js/2.fcf31f6b.chunk.js.LICENSE.txt": "/wigxel-corp/static/js/2.fcf31f6b.chunk.js.LICENSE.txt",
     "static/media/DupLogo.6c06839c.png": "/wigxel-corp/static/media/DupLogo.6c06839c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cf076e3c.js",
     "static/js/2.fcf31f6b.chunk.js",
-    "static/css/main.a3fcf983.chunk.css",
-    "static/js/main.a32f7a96.chunk.js"
+    "static/css/main.cb139656.chunk.css",
+    "static/js/main.522a2f3b.chunk.js"
   ]
 }
